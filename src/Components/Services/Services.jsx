@@ -8,7 +8,7 @@ import Resume from './MyCv.pdf'
 import { themeContext } from '../../Context'
 import { useContext } from 'react'
 import {motion} from 'framer-motion'
-import { type } from '@testing-library/user-event/dist/type'
+
 
 
 const Services = () => {
